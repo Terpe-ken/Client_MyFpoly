@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+    android:id="@+id/nav_schedules"
+    android:icon="@drawable/subject"
+    android:title="Lịch Học" />
+    <item
+        android:id="@+id/nav_news"
+        android:icon="@drawable/news"
+        android:title="Tin Tức"/>
+    <item
+        android:id="@+id/nav_notification"
+        android:icon="@drawable/chuong"
+        android:title="Thông Báo"/>
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/profile"
+        android:title="Cá Nhân"/>
+</menu>

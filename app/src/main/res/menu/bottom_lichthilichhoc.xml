@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_lich_hoc"
+        android:icon="@drawable/subject"
+        android:title="Lịch Học" />
+    <item
+        android:id="@+id/nav_lich_thi"
+        android:icon="@drawable/news"
+        android:title="Lịch Thi"/>
+</menu>
